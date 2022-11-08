@@ -24,3 +24,8 @@ print (ryu3)
 print (ryu4)
 
 ###soal4
+
+jin5 = "usiaku:"
+jin6 = "16 Tahun"
+
+print (jin5, jin6)
